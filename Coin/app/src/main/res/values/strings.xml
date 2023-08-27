@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Coin</string>
+    <string name="currency_converter">Конвертер\nвалют</string>
+    <string name="convert">Конвертировать</string>
+    <string name="from">Начальная</string>
+    <string name="to">Конечная</string>
+    <string name="amount">Сумма</string>
+    <string name="latest">Курсы валют</string>
+    <string name="about">О приложении</string>
+    <string name="base_currency">Базовая валюта</string>
+    <string name="amount_template">%1$s %2$s</string>
+    <string name="history">История конвертаций</string>
+    <string name="history_wrap">История\nконвертаций</string>
+</resources>

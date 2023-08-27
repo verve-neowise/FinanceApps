@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">InfiFunds</string>
+    <string name="your_total_savings">Все сбережения</string>
+    <string name="your_goals">Ваши цели</string>
+    <string name="all">Активные</string>
+    <string name="archived">Архив</string>
+    <string name="buy_car">Buy car</string>
+    <string name="content_add">Add Button</string>
+    <string name="months_left">осталось %1$d месяцев</string>
+    <string name="top_up">Пополнить</string>
+    <string name="withdraw">Снять</string>
+    <string name="archive">В архив</string>
+    <string name="delete">Удалить</string>
+    <string name="restore">Восстановить</string>
+    <string name="create_goal">Создать цель</string>
+    <string name="_01_01_2021">01/01/2021</string>
+    <string name="_35_000">35.000</string>
+    <string name="create">Создать</string>
+    <string name="title">Название</string>
+    <string name="operation">Operation</string>
+    <string name="ok">Ок</string>
+    <string name="message_cannot_top_up_completed">Нельзя пополнить завершенную цель</string>
+    <string name="message_make_amount_smaller">Сделайте сумму поменьше</string>
+    <string name="message_cannot_withdraw_from_zero_balance">Нельзя снять с нулевого баланса</string>
+    <string name="message_wrong_inputs">Неправильные данные</string>
+    <string name="message_wrong_title">Неправильное название</string>
+    <string name="message_wrong_date">Неправильные число</string>
+    <string name="message_zero_amount">Нулевая сумма</string>
+</resources>

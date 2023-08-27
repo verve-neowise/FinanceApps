@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinanceFeed</string>
+    <string name="relate_date">%1$s назад</string>
+    <string name="ellipse">%1$s…</string>
+    <string name="ok">Ок</string>
+    <string name="feed">Лента</string>
+    <string name="favorites">Избранные</string>
+    <string name="read_more">Читать</string>
+    <string name="about">О приложении</string>
+</resources>

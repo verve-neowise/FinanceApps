@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:layout_width="266dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/venom"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/play"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/button_background"
+        android:text="Play"
+        android:textSize="20sp"
+        android:textColor="@color/white"/>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/info"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/button_background"
+        android:text="Info"
+        android:textSize="20sp"
+        android:textColor="@color/white"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/exit"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_background"
+            android:text="Exit"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ziza"
+            android:layout_marginEnd="19dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/exit" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

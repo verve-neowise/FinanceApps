@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    app:startDestination="@id/menuFragment">
+    <fragment
+        android:id="@+id/convertFragment"
+        android:name="io.currency.coin.app.fragments.ConvertFragment"
+        android:label="ConvertFragment" >
+        <action
+            android:id="@+id/action_convertFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="io.currency.coin.app.fragments.AboutFragment"
+        android:label="AboutFragment" />
+    <fragment
+        android:id="@+id/menuFragment"
+        android:name="io.currency.coin.app.fragments.MenuFragment"
+        android:label="MenuFragment" >
+        <action
+            android:id="@+id/action_menuFragment_to_aboutFragment"
+            app:destination="@id/aboutFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_convertFragment"
+            app:destination="@id/convertFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_exchangeRatesFragment"
+            app:destination="@id/exchangeRatesFragment" />
+        <action
+            android:id="@+id/action_menuFragment_to_historyFragment"
+            app:destination="@id/historyFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/exchangeRatesFragment"
+        android:name="io.currency.coin.app.fragments.ExchangeRatesFragment"
+        android:label="ExchangeRatesFragment" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="io.currency.coin.app.fragments.HistoryFragment"
+        android:label="HistoryFragment" />
+</navigation>

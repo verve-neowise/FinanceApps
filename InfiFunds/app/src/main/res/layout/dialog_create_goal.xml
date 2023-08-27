@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/create_goal"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_marginTop="30dp"
+        android:inputType="text"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:textSize="18sp"
+        android:textColor="@color/black"
+        android:hint="@string/title"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/imageView2"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="15dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/dollar"
+            app:layout_constraintBottom_toBottomOf="@+id/amount"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <EditText
+            android:id="@+id/amount"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:inputType="number"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:background="@android:color/transparent"
+            android:textSize="24sp"
+            android:textColor="@color/black"
+            android:hint="@string/_35_000"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/calendar"
+            app:layout_constraintBottom_toBottomOf="@+id/date"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <com.vicmikhailau.maskededittext.MaskedEditText
+            android:id="@+id/date"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            app:mask="##/##/####"
+            android:inputType="number"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:background="@android:color/transparent"
+            android:hint="@string/_01_01_2021"
+            android:textColor="@color/black"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/imageView2"
+            app:layout_constraintTop_toBottomOf="@+id/amount" />
+
+
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/create"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:text="@string/create"
+        android:background="@drawable/button_rounded_background"
+        android:textSize="18sp"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/date" />
+
+</LinearLayout>

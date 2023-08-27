@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Base.Theme.InfiFunds" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:statusBarColor">@color/background</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="AccentSeekBar" parent="Widget.AppCompat.SeekBar">
+        <item name="android:progressBackgroundTint">#D5DFE6</item>
+        <item name="android:progressTint">#005DFF</item>
+        <item name="android:thumbTint">#005DFF</item>
+    </style>
+</resources>

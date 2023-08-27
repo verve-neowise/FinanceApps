@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Money Mastery</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="select_quiz">Выберите задание</string>
+    <string name="show_result">Результаты</string>
+    <string name="your_name">Введите имя</string>
+    <string name="start">начать</string>
+    <string name="next">Следующий</string>
+    <string name="example_text">What is the term used to describe the difference between a company\'s total revenue and its total expenses?</string>
+    <string name="main_menu">Главная</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="unknown_category">Unknown category</string>
+    <string name="confirm">Подтвердить</string>
+    <string name="your_result">Ваш результат, %1$s</string>
+    <string name="progress">%1$d%% ( %2$d of %3$d )</string>
+    <string name="select_variant">Выберите вариант</string>
+</resources>

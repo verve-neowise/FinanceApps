@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    app:startDestination="@id/mainFragment">
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.owe.track.fragments.MainFragment"
+        android:label="MainFragment" >
+        <action
+            android:id="@+id/action_mainFragment_to_createFragment"
+            app:destination="@id/createFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_paymentHistoryFragment"
+            app:destination="@id/paymentHistoryFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/createFragment"
+        android:name="com.owe.track.fragments.CreateFragment"
+        android:label="CreateFragment" />
+    <fragment
+        android:id="@+id/paymentHistoryFragment"
+        android:name="com.owe.track.fragments.PaymentHistoryFragment"
+        android:label="PaymentHistoryFragment" />
+</navigation>

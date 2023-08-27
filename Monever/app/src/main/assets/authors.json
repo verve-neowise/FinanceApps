@@ -1,0 +1,554 @@
+[
+  {
+    "id": 0,
+    "name": "Уинстон Черчилль",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14384-uinston-cherchill.jpg",
+    "dates": "1874 г.–1965 г.",
+    "text": "Британский политик и писатель, дважды становившийся премьер-министром Великобритании. Один из ключевых лидеров союзников во время Второй мировой войны.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B8%D0%BD%D1%81%D1%82%D0%BE%D0%BD_%D0%A7%D0%B5%D1%80%D1%87%D0%B8%D0%BB%D0%BB"
+  },
+  {
+    "id": 1,
+    "name": "Готфрид Вильгельм Лейбниц",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14385-gotfrid-vilgelm-leibnits.jpg",
+    "dates": "1646 г.–1716 г.",
+    "text": "Немецкий философ, математик и ученый. Разработал дифференциальное и интегральное исчисление независимо от Ньютона.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%82%D1%84%D1%80%D0%B8%D0%B4_%D0%92%D0%B8%D0%BB%D1%8C%D0%B3%D0%B5%D0%BB%D1%8C%D0%BC_%D0%9B%D0%B5%D0%B9%D0%B1%D0%BD%D0%B8%D1%86"
+  },
+  {
+    "id": 2,
+    "name": "Тед Тёрнер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14386-ted-terner.jpg",
+    "dates": "1938 г.–",
+    "text": "Американский предприниматель и медиамагнат. Основатель канала CNN и один из самых крупных землевладельцев в США.",
+    "link": "https://en.wikipedia.org/wiki/Ted_Turner"
+  },
+  {
+    "id": 3,
+    "name": "Федор Достоевский",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14383-fedor-dostoevskii.jpg",
+    "dates": "1821 г.–1881 г.",
+    "text": "Российский писатель и философ. Один из величайших классиков мировой литературы, автор произведений 'Преступление и наказание' и 'Братья Карамазовы'.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80_%D0%94%D0%BE%D1%81%D1%82%D0%BE%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
+  },
+  {
+    "id": 4,
+    "name": "Американское изречение",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14517-statuya-svobody_2.jpg",
+    "dates": "",
+    "text": "Изречение, представляющее мудрость или идею, связанную с культурой и историей Соединенных Штатов Америки.",
+    "link": ""
+  },
+  {
+    "id": 5,
+    "name": "Сузи Паркер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14387-suzi-parker.jpg",
+    "dates": "1969 г.–",
+    "text": "Американская актриса, известная по ролям в комедийных фильмах. Известна ролью Эль Вуд в фильмах 'Легко ли быть молодым?' и других.",
+    "link": "https://en.wikipedia.org/wiki/Suzi_Parker"
+  },
+  {
+    "id": 6,
+    "name": "Януш Васильковский",
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "dates": "1933 г.–2005 г.",
+    "text": "Польский поэт, прозаик и журналист. Занимался разными жанрами, включая поэзию, эссе и мемуары.",
+    "link": "https://pl.wikipedia.org/wiki/Janusz_Wi%C5%9Bniewski"
+  },
+  {
+    "id": 7,
+    "name": "Сэмюэл Батлер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14388-semyuel-batler.jpg",
+    "dates": "1835 г.–1902 г.",
+    "text": "Английский писатель и сатирик. Автор произведений 'Замечательные приключения Эрлома' и 'Сказки наших дней'.",
+    "link": "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)"
+  },
+  {
+    "id": 8,
+    "name": "Хайнц Шенк",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14455-khaints-shenk.jpg",
+    "dates": "1902 г.–1993 г.",
+    "text": "Австрийский экономист и философ. Один из представителей австрийской школы экономики.",
+    "link": "https://de.wikipedia.org/wiki/Heinrich_Shenk"
+  },
+  {
+    "id": 9,
+    "name": "Марио Пьюзо",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14392-mario-pyuzo.jpg",
+    "dates": "1920 г.–1999 г.",
+    "text": "Американский писатель и сценарист. Автор романа 'Крестный отец', на основе которого были сняты фильмы.",
+    "link": "https://en.wikipedia.org/wiki/Mario_Puzo"
+  },
+  {
+    "id": 10,
+    "name": "Бомарше",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14375-bomarshe.jpg",
+    "dates": "1738 г.–1800 г.",
+    "text": "Французский писатель и журналист. Автор множества публицистических и литературных работ, занимавшихся социальными и философскими вопросами.",
+    "link": "https://fr.wikipedia.org/wiki/Bomarch%C3%A9"
+  },
+  {
+    "id": 11,
+    "name": "Билл Клинтон",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14377-bill-klinton.jpg",
+    "dates": "род. 1946 г.",
+    "text": "Американский политик, 42-й президент США. Второй президент из Демократической партии, избранный на два срока с 1993 по 2001 год.",
+    "link": "https://en.wikipedia.org/wiki/Bill_Clinton"
+  },
+  {
+    "id": 12,
+    "name": "Аристотель Онассис",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14382-aristotel-onassis.jpg",
+    "dates": "1906 г.–1975 г.",
+    "text": "Греческий миллиардер и предприниматель, основатель греческой судоходной компании 'Olympic Airways' и других бизнес-проектов.",
+    "link": "https://en.wikipedia.org/wiki/Aristotle_Onassis"
+  },
+  {
+    "id": 13,
+    "name": "Английское изречение XVII века",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14518-big-ben.jpg",
+    "dates": "",
+    "text": "Изречение или фраза, связанная с английской культурой и историей XVII века.",
+    "link": ""
+  },
+  {
+    "id": 14,
+    "name": "Филипп Бувар",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14390-filipp-buvar.jpg",
+    "dates": "1794 г.–1860 г.",
+    "text": "Французский военачальник и политик. Служил в армии Наполеона и участвовал в войнах XIX века.",
+    "link": "https://fr.wikipedia.org/wiki/Philippe_Buonarroti"
+  },
+  {
+    "id": 15,
+    "name": "Фрэнсис Бэкон",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14391-frensis-bekon.jpg",
+    "dates": "1561 г.–1626 г.",
+    "text": "Английский философ, политик и писатель. Один из основателей эmpиризма, автор философских и литературных произведений.",
+    "link": "https://en.wikipedia.org/wiki/Francis_Bacon"
+  },
+  {
+    "id": 16,
+    "name": "Уильям Сомерсет Моэм",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14394-uilyam-somerset-moem.jpg",
+    "dates": "1874 г.–1965 г.",
+    "text": "Британский писатель. Известен своими романами и рассказами, такими как 'Человек с характером', 'Развод' и 'Разрушение'.",
+    "link": "https://en.wikipedia.org/wiki/W._Somerset_Maugham"
+  },
+  {
+    "id": 17,
+    "name": "Сэмюэл Джонсон",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14395-semyuel-dzhonson.jpg",
+    "dates": "1709 г.–1784 г.",
+    "text": "Английский писатель и лексикограф. Автор первого словаря английского языка, а также эссе и литературных произведений.",
+    "link": "https://en.wikipedia.org/wiki/Samuel_Johnson"
+  },
+  {
+    "id": 18,
+    "name": "Автор неизвестен",
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "dates": "",
+    "text": "Фраза, выражающая мысль или цитату, у которой неизвестен автор.",
+    "link": ""
+  },
+  {
+    "id": 19,
+    "name": "Дэвид Герберт Лоуренс",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14397-devid-gerbert-lourens.jpg",
+    "dates": "1885 г.–1930 г.",
+    "text": "Английский писатель и поэт. Автор романов 'Сыновья и любовники', 'Леди Чаттерлей и её любовник' и других произведений, отличавшихся сексуальной откровенностью.",
+    "link": "https://en.wikipedia.org/wiki/D._H._Lawrence"
+  },
+  {
+    "id": 20,
+    "name": "Жан-Жак Руссо",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14398-zhan-zhak-russo.jpg",
+    "dates": "1712 г.–1778 г.",
+    "text": "Швейцарско-французский писатель и философ. Автор работ 'Об общественном договоре', 'Новая Гелиоза' и других, в которых излагал идеи общественного контракта и натурального состояния.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BD-%D0%96%D0%B0%D0%BA_%D0%A0%D1%83%D1%81%D1%81%D0%BE"
+  },
+  {
+    "id": 21,
+    "name": "Роберт Сарнофф",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14399-robert-sarnoff.jpg",
+    "dates": "1897 г.–1981 г.",
+    "text": "Американский журналист и комментатор. Известен своими обширными радиовыступлениями и телевизионными комментариями.",
+    "link": "https://en.wikipedia.org/wiki/Robert_Sarnoff"
+  },
+  {
+    "id": 22,
+    "name": "Мишель де Монтень",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14400-mishel-de-monten.jpg",
+    "dates": "1533 г.–1592 г.",
+    "text": "Французский писатель и философ. Автор эссе, в которых рассматривал широкий спектр тем, от человеческой природы до образа жизни и морали.",
+    "link": "https://en.wikipedia.org/wiki/Michel_de_Montaigne"
+  },
+  {
+    "id": 23,
+    "name": "Харви Маккей",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14401-kharvi-makkei.jpg",
+    "dates": "1899 г.–1984 г.",
+    "text": "Американский писатель и художник. Известен своими работами для детей, включая 'Гудни', 'Золотая линейка' и другие.",
+    "link": "https://en.wikipedia.org/wiki/Harvey_MacKay"
+  },
+  {
+    "id": 24,
+    "name": "Бенджамин Франклин",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14402-bendzhamin-franklin.jpg",
+    "dates": "1706 г.–1790 г.",
+    "text": "Американский политик, ученый и изобретатель. Один из основателей США, автор множества работ по физике, метеорологии и другим областям.",
+    "link": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "id": 25,
+    "name": "Маргарет Тэтчер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14403-margaret-tetcher.jpg",
+    "dates": "1925 г.–2013 г.",
+    "text": "Британская политик, первая женщина-премьер-министр Великобритании. Прошла в истории под прозвищем 'Железная леди'.",
+    "link": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+  },
+  {
+    "id": 26,
+    "name": "Проспер Мериме",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14404-prosper-merime.jpg",
+    "dates": "1803 г.–1870 г.",
+    "text": "Французский писатель и археолог. Автор романов и рассказов, включая 'Кармен', который стал основой для одноименной оперы.",
+    "link": "https://en.wikipedia.org/wiki/Prosper_M%C3%A9rim%C3%A9e"
+  },
+  {
+    "id": 27,
+    "name": "Демокрит",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14405-demokrit.jpg",
+    "dates": "460 г. до н.э.–370 г. до н.э.",
+    "text": "Древнегреческий философ и атомист. Один из ключевых представителей античной атомистической философии.",
+    "link": "https://en.wikipedia.org/wiki/Democritus"
+  },
+  {
+    "id": 28,
+    "name": "Джон Стейнбек",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14421-dzhon-steinbek.jpg",
+    "dates": "1902 г.–1968 г.",
+    "text": "Американский писатель, лауреат Нобелевской премии по литературе. Автор романов 'Гроздья гнева', 'На восток от Эдема' и других произведений.",
+    "link": "https://en.wikipedia.org/wiki/John_Steinbeck"
+  },
+  {
+    "id": 29,
+    "name": "Франческо Петрарка",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14422-franchesko-petrarka.jpg",
+    "dates": "1304 г.–1374 г.",
+    "text": "Итальянский поэт и гуманист эпохи Возрождения. Автор стихотворного сборника 'Стихотворения в стиле римских поэтов'.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%BE_%D0%9F%D0%B5%D1%82%D1%80%D0%B0%D1%80%D0%BA%D0%B0"
+  },
+  {
+    "id": 30,
+    "name": "Франтишек Крышка",
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "dates": "1843 г.–1912 г.",
+    "text": "Чешский писатель, журналист и публицист. Известен своими реалистическими произведениями, отражающими социальные и политические аспекты жизни.",
+    "link": "https://cs.wikipedia.org/wiki/Frantisek_Kry%C5%A1tof_K%C3%A1t%C4%9B_Ka%C5%88ka"
+  },
+  {
+    "id": 31,
+    "name": "Томас Карлейль",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14423-tomas-karleil.jpg",
+    "dates": "1795 г.–1881 г.",
+    "text": "Шотландский историк, писатель и философ. Автор работ по истории, политике и социальной философии, включая 'Герои, героику и история'.",
+    "link": "https://en.wikipedia.org/wiki/Thomas_Carlyle"
+  },
+  {
+    "id": 32,
+    "name": "Сэмюэл Джонсон",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14395-semyuel-dzhonson.jpg",
+    "dates": "1709 г.–1784 г.",
+    "text": "Английский писатель и лексикограф. Автор первого словаря английского языка, а также эссе и литературных произведений.",
+    "link": "https://en.wikipedia.org/wiki/Samuel_Johnson"
+  },
+  {
+    "id": 33,
+    "name": "Роберт Луис Стивенсон",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14424-robert-luis-stivenson.jpg",
+    "dates": "1850 г.–1894 г.",
+    "text": "Шотландский писатель. Автор множества приключенческих романов, включая 'Остров сокровищ' и 'Странная история доктора Джекила и мистера Хайда'.",
+    "link": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson"
+  },
+  {
+    "id": 34,
+    "name": "Клавдий Элиан",
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "dates": "ок. 175 г.–ок. 235 г.",
+    "text": "Древнегреческий писатель и ритор. Автор работ по этике, риторике и природе животных.",
+    "link": "https://en.wikipedia.org/wiki/Claudius_Aelianus"
+  },
+  {
+    "id": 35,
+    "name": "Марк Туллий Цицерон",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14426-mark-tullii-tsitseron.jpg",
+    "dates": "106 г. до н.э.–43 г. до н.э.",
+    "text": "Римский оратор, философ, юрист и политик. Один из крупнейших римских публицистов, автор речей, эссе и философских трактатов.",
+    "link": "https://en.wikipedia.org/wiki/Cicero"
+  },
+  {
+    "id": 36,
+    "name": "Макс Вебер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14428-maks-veber.jpg",
+    "dates": "1864 г.–1920 г.",
+    "text": "Немецкий социолог, экономист и философ. Один из основателей современной социологии, автор работ о рациональности, власти и религии.",
+    "link": "https://en.wikipedia.org/wiki/Max_Weber"
+  },
+  {
+    "id": 37,
+    "name": "Карл Раймунд Поппер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14429-karl-raimund-popper.jpg",
+    "dates": "1902 г.–1994 г.",
+    "text": "Австрийско-британский философ науки. Известен своими идеями о фальсификации, принципе научности и философии открытого общества.",
+    "link": "https://en.wikipedia.org/wiki/Karl_Popper"
+  },
+  {
+    "id": 38,
+    "name": "Джордж Савил Галифакс",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14430-dzhordzh-savil-galifaks.jpg",
+    "dates": "1633 г.–1695 г.",
+    "text": "Английский политик и писатель. Один из лидеров Великой революции 1688 года, автор множества политических и исторических работ.",
+    "link": "https://en.wikipedia.org/wiki/George_Savile,_1st_Marquess_of_Halifax"
+  },
+  {
+    "id": 39,
+    "name": "Василий Ключевский",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14431-vasilii-klyuchevskii.jpg",
+    "dates": "1841 г.–1911 г.",
+    "text": "Российский историк, один из основателей и руководителей Московской исторической школы. Известен своими исследованиями российской истории.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9_%D0%9E%D1%81%D0%B8%D0%BF%D0%BE%D0%B2%D0%B8%D1%87_%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9"
+  },
+  {
+    "id": 40,
+    "name": "Бенджамин Франклин",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14402-bendzhamin-franklin.jpg",
+    "dates": "1706 г.–1790 г.",
+    "text": "Американский политик, ученый и изобретатель. Один из основателей США, автор множества работ по физике, метеорологии и другим областям.",
+    "link": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "id": 41,
+    "name": "Бенджамин Франклин",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14402-bendzhamin-franklin.jpg",
+    "dates": "1706 г.–1790 г.",
+    "text": "Американский политик, ученый и изобретатель. Один из основателей США, автор множества работ по физике, метеорологии и другим областям.",
+    "link": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "id": 42,
+    "name": "Бенджамин Франклин",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14402-bendzhamin-franklin.jpg",
+    "dates": "1706 г.–1790 г.",
+    "text": "Американский политик, ученый и изобретатель. Один из основателей США, автор множества работ по физике, метеорологии и другим областям.",
+    "link": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "id": 43,
+    "name": "Гораций (Квинт Гораций Флакк)",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14433-goratsii.jpg",
+    "dates": "65 г. до н.э.–8 г. до н.э.",
+    "text": "Римский поэт эпохи Августа. Известен своими лирическими и сатирическими стихами, в том числе одами и эподами.",
+    "link": "https://en.wikipedia.org/wiki/Horace"
+  },
+  {
+    "id": 44,
+    "name": "Михаил Жванецкий",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14435-mikhail-zhvanetskii.jpg",
+    "dates": "1934 г.–2016 г.",
+    "text": "Советский и российский сатирик и афорист. Известен своими юмористическими монологами и афоризмами.",
+    "link": "https://ru.wikipedia.org/wiki/%D0%96%D0%B2%D0%B0%D0%BD%D0%B5%D1%86%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87"
+  },
+  {
+    "id": 45,
+    "name": "Роберт Кийосаки",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14438-robert-kiiosaki.jpg",
+    "dates": "род. 1947 г.",
+    "text": "Американский предприниматель и писатель. Известен своими книгами по финансовой грамотности и личной эффективности, включая 'Богатый папа, бедный папа'.",
+    "link": "https://en.wikipedia.org/wiki/Robert_Kiyosaki"
+  },
+  {
+    "id": 46,
+    "name": "Ф. Дойл",
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "dates": "1859 г.–1930 г.",
+    "text": "Британский писатель и врач, создатель легендарного сыщика Шерлока Холмса. Автор ряда детективных романов и рассказов.",
+    "link": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle"
+  },
+  {
+    "id": 47,
+    "name": "Фрэнк Хаббард",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14440-frenk-khabbard.jpg",
+    "dates": "1868 г.–1930 г.",
+    "text": "Американский писатель, философ и художник. Основатель движения 'Филистинский клуб', автор множества эссе и моральных вопросов.",
+    "link": "https://en.wikipedia.org/wiki/Elbert_Hubbard"
+  },
+  {
+    "id": 48,
+    "name": "Фрэнк Хаббард",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14440-frenk-khabbard.jpg",
+    "dates": "1868 г.–1930 г.",
+    "text": "Американский писатель, философ и художник. Основатель движения 'Филистинский клуб', автор множества эссе и моральных вопросов.",
+    "link": "https://en.wikipedia.org/wiki/Elbert_Hubbard"
+  },
+  {
+    "id": 49,
+    "name": "Роберт Орбен",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14442-robert-orben.jpg",
+    "dates": "1900 г.–1973 г.",
+    "text": "Французский актер, писатель и режиссер. Автор комедий и сатирических произведений.",
+    "link": "https://fr.wikipedia.org/wiki/Robert_Lamoureux"
+  },
+  {
+    "id": 50,
+    "name": "Джералд Бренан",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14443-dzherald-brenan.jpg",
+    "dates": "1896 г.–1964 г.",
+    "text": "Британский автор и путешественник. Известен своими мемуарами о жизни в Кипре и Греции.",
+    "link": "https://en.wikipedia.org/wiki/Gerald_Brenan"
+  },
+  {
+    "id": 51,
+    "name": "Джордж Бернард Шоу",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14444-dzhordzh-bernard-shou.jpg",
+    "dates": "1856 г.–1950 г.",
+    "text": "Ирландский драматург и критик. Лауреат Нобелевской премии по литературе. Автор пьес, включая 'Пигмалион' и 'Святая Иоанна'.",
+    "link": "https://en.wikipedia.org/wiki/George_Bernard_Shaw"
+  },
+  {
+    "id": 52,
+    "name": "Эзоп",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14445-ezop.jpg",
+    "dates": "VII-VI вв. до н.э.",
+    "text": "Древнегреческий баснописец. По преданию, автор множества басен, в которых через животных передавались моральные уроки.",
+    "link": "https://en.wikipedia.org/wiki/Aesop"
+  },
+  {
+    "id": 53,
+    "name": "Сэмюэл Батлер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14388-semyuel-batler.jpg",
+    "dates": "1835 г.–1902 г.",
+    "text": "Английский писатель и сатирик. Автор романов и эссе, включая 'Эреван' и 'Сатиры и пародии'.",
+    "link": "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)"
+  },
+  {
+    "id": 54,
+    "name": "Михаил Булгаков",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14448-mikhail-bulgakov.jpg",
+    "dates": "1891 г.–1940 г.",
+    "text": "Российский писатель и драматург. Автор романа 'Мастер и Маргарита' и других произведений, известных своим сатирическим стилем.",
+    "link": "https://en.wikipedia.org/wiki/Mikhail_Bulgakov"
+  },
+  {
+    "id": 55,
+    "name": "Фридрих Ницше",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14449-fridrikh-nitsshe.jpg",
+    "dates": "1844 г.–1900 г.",
+    "text": "Немецкий философ, филолог и писатель. Автор работ по философии, эстетике и морали, включая 'Так говорил Заратустра'.",
+    "link": "https://en.wikipedia.org/wiki/Friedrich_Nietzsche"
+  },
+  {
+    "id": 56,
+    "name": "Генри Форд",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14419-genri-ford.jpg",
+    "dates": "1863 г.–1947 г.",
+    "text": "Американский индустриал и основатель компании Ford Motor Company. Революционизировал автомобильную промышленность и массовое производство.",
+    "link": "https://en.wikipedia.org/wiki/Henry_Ford"
+  },
+  {
+    "id": 57,
+    "name": "Луций Анней Сенека",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14450-lutsii-annei-seneka.jpg",
+    "dates": "ок. 4 г.–65 г.",
+    "text": "Древнеримский философ, стоик и писатель. Автор трактатов по этике, философии и риторике.",
+    "link": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+  },
+  {
+    "id": 58,
+    "name": "Эрих Мария Ремарк",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14452-erikh-mariya-remark.jpg",
+    "dates": "1898 г.–1970 г.",
+    "text": "Немецкий писатель. Известен своим романом 'На западном фронте без перемен', рассказывающим о Первой мировой войне.",
+    "link": "https://en.wikipedia.org/wiki/Erich_Maria_Remarque"
+  },
+  {
+    "id": 59,
+    "name": "Унсур Аль-маали (Кей Кабус)",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14453-unsur-al-maali.jpg",
+    "dates": "род. 1940 г.",
+    "text": "Оманский султан, правитель Омана с 1970 года. Осуществил современные реформы, направленные на модернизацию страны.",
+    "link": "https://en.wikipedia.org/wiki/Qaboos_bin_Said_al_Said"
+  },
+  {
+    "id": 60,
+    "name": "Пьер Декурсель",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14454-per-dekursel.jpg",
+    "dates": "1924 г.–2006 г.",
+    "text": "Французский физик, лауреат Нобелевской премии по физике 1992 года за открытие нейтронных антинейтронных осцилляций.",
+    "link": "https://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes"
+  },
+  {
+    "id": 61,
+    "name": "Бенджамин Франклин",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14402-bendzhamin-franklin.jpg",
+    "dates": "1706 г.–1790 г.",
+    "text": "Американский политик, ученый и изобретатель. Один из основателей США, автор множества работ по физике, метеорологии и другим областям.",
+    "link": "https://en.wikipedia.org/wiki/Benjamin_Franklin"
+  },
+  {
+    "id": 62,
+    "name": "Лион Фейхтвангер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14456-lion-feikhtvanger.jpg",
+    "dates": "1884 г.–1958 г.",
+    "text": "Немецкий писатель. Автор исторических романов и социальных произведений, включая роман 'Иуда Искариот'.",
+    "link": "https://en.wikipedia.org/wiki/Lion_Feuchtwanger"
+  },
+  {
+    "id": 63,
+    "name": "Вильгельм Швебель",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14514-vilgelm-shvebel.jpg",
+    "dates": "1891 г.–1958 г.",
+    "text": "Немецкий физик, лауреат Нобелевской премии по физике 1954 года за открытие мезонов.",
+    "link": "https://en.wikipedia.org/wiki/Walther_Bothe"
+  },
+  {
+    "id": 64,
+    "name": "Фридрих фон Хайек",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14457-fridrikh-fon-khaiek.jpg",
+    "dates": "1899 г.–1992 г.",
+    "text": "Австрийско-британский экономист и философ. Лауреат Нобелевской премии по экономике 1974 года за исследования в области денежных икономических процессов.",
+    "link": "https://en.wikipedia.org/wiki/Friedrich_Hayek"
+  },
+  {
+    "id": 65,
+    "name": "Эрнест Хаскинс",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14459-ernest-khaskins.jpg",
+    "dates": "1895 г.–1984 г.",
+    "text": "Британский ученый и инженер. Разработчик атомных бомб для Соединенного Королевства.",
+    "link": "https://en.wikipedia.org/wiki/William_Penney,_Baron_Penney"
+  },
+  {
+    "id": 66,
+    "name": "Станислав Ежи Лец",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14460-stanislav-ezhi-lets.jpg",
+    "dates": "1909 г.–1966 г.",
+    "text": "Чешский писатель и драматург. Известен своими комедийными и социальными произведениями, включая роман 'Заводной апельсин'.",
+    "link": "https://en.wikipedia.org/wiki/Milos_Forman"
+  },
+  {
+    "id": 67,
+    "name": "Эдгар Кайзер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14515-edgar-kaizer.jpg",
+    "dates": "1898 г.–1945 г.",
+    "text": "Немецкий политик и генерал. Военный министр Третьего Рейха, участник покушения на Гитлера в 1944 году.",
+    "link": "https://en.wikipedia.org/wiki/Carl_Friedrich_Goerdeler"
+  },
+  {
+    "id": 68,
+    "name": "Маргарет Тэтчер",
+    "avatar": "https://www.finversia.ru/site/public/files/15/14403-margaret-tetcher.jpg",
+    "dates": "1925 г.–2013 г.",
+    "text": "Британский политик, первая женщина-премьер-министр Великобритании. Известна как 'Железная леди' за свою жесткую политику.",
+    "link": "https://en.wikipedia.org/wiki/Margaret_Thatcher"
+  }
+]

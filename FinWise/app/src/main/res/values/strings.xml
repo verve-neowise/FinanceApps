@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FinWise</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="annuity">Аннуитетный</string>
+    <string name="differentiated_short">Дифференцир.</string>
+    <string name="about_app">О приложении</string>
+    <string name="about_text">FinWise - приложение-калькулятор для оценки общей суммы процентных платежей за весь срок кредита. Входные данные: сумма кредита, процентная ставка и срок кредита. Получите информацию о общей сумме процентов и ее доле в общей стоимости кредита.\nПриятный для пользователя, помогает с финансовым планированием и облегчает принятие обоснованных решений.\nВажно: приложение является информативным; рекомендуется проконсультироваться с финансовыми экспертами перед принятием решения о получении кредита.</string>
+    <string name="select_payment_type">Выберите тип расчета</string>
+    <string name="differentiated">Дифференцированный</string>
+    <string name="principal">Сумма</string>
+    <string name="rub">руб.</string>
+    <string name="years">Срок</string>
+    <string name="year">лет</string>
+    <string name="percents">Процентная ставка</string>
+    <string name="percent_symbol">%</string>
+    <string name="calculate">Вычислить</string>
+    <string name="Result">Результат</string>
+    <string name="payment_type">Тип расчета</string>
+    <string name="general_payments">Общие платежи</string>
+    <string name="overpayments">Переплаты</string>
+    <string name="unknown">(Нет данных)</string>
+
+</resources>

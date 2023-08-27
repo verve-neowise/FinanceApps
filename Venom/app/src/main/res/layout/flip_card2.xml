@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wajahatkarim3.easyflipview.EasyFlipView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="80dp"
+    android:layout_height="106dp"
+    app:flipOnTouch="false"
+    app:flipEnabled="true"
+    app:flipType="horizontal"
+    app:flipFrom="back"
+    app:autoFlipBack="false">
+
+    <!-- Back Layout Goes Here -->
+
+    <!-- Front Layout Goes Here -->
+
+    <ImageView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/image"
+        android:layout_width="80dp"
+        android:layout_height="106dp"
+        android:src="@drawable/card_5"
+        />
+
+    <ImageView
+        android:id="@+id/card_water_tracker"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:src="@drawable/front"
+        />
+
+</com.wajahatkarim3.easyflipview.EasyFlipView>

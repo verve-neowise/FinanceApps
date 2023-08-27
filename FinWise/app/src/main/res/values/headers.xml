@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="annuity_header">
+        <item> Мес. </item>
+        <item> Еж. платеж </item>
+        <item> По процентам </item>
+        <item> Ост. баланс </item>
+    </string-array>
+
+    <string-array name="differentiated_header">
+        <item> Мес. </item>
+        <item> Общий платеж </item>
+        <item> По процентам </item>
+        <item> По осн. долгу </item>
+    </string-array>
+
+    <string-array name="overpayment_header">
+        <item>Мес.</item>
+        <item>Еж. платеж</item>
+        <item>Проценты</item>
+        <item>Осн. долг</item>
+        <item>Переплата</item>
+    </string-array>
+</resources>

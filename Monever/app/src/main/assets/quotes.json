@@ -1,0 +1,770 @@
+[
+  {
+    "id": 0,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14384-uinston-cherchill.jpg",
+    "author": "Уинстон Черчилль",
+    "text": "Время и деньги по большей части взаимозаменяемы."
+  },
+  {
+    "id": 1,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14385-gotfrid-vilgelm-leibnits.jpg",
+    "author": "Готфрид Вильгельм Лейбниц",
+    "text": "Прежде, чем спорить, давайте считать."
+  },
+  {
+    "id": 2,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14386-ted-terner.jpg",
+    "author": "Тед Тёрнер",
+    "text": "Жизнь — игра, а деньги — способ вести счет."
+  },
+  {
+    "id": 3,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14383-fedor-dostoevskii.jpg",
+    "author": "Федор Достоевский",
+    "text": "Деньги, конечно, деспотическое могущество, но в то же время и высочайшее равенство, и в этом вся их главная сила. Деньги сравнивают все неравенства."
+  },
+  {
+    "id": 4,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14517-statuya-svobody_2.jpg",
+    "author": "Американское изречение",
+    "text": "Нельзя купить счастье за деньги, но можно арендовать."
+  },
+  {
+    "id": 5,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14387-suzi-parker.jpg",
+    "author": "Сузи Паркер",
+    "text": "Все, что я делаю, я делаю по разумной причине, и обычно этой причиной оказываются деньги."
+  },
+  {
+    "id": 6,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Януш Васильковский",
+    "text": "Я знаю, нельзя иметь всего сразу, поэтому я начну с малого — с денег."
+  },
+  {
+    "id": 7,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14388-semyuel-batler.jpg",
+    "author": "Сэмюэл Батлер",
+    "text": "Говорят, что деньги — корень всякого зла. То же самое можно сказать о безденежье."
+  },
+  {
+    "id": 8,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14455-khaints-shenk.jpg",
+    "author": "Хайнц Шенк",
+    "text": "Единственное, что можно делать без денег, — это долги."
+  },
+  {
+    "id": 9,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14392-mario-pyuzo.jpg",
+    "author": "Марио Пьюзо",
+    "text": "Не переживать из-за денег — почти то же самое, что не переживать из-за смерти."
+  },
+  {
+    "id": 10,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14375-bomarshe.jpg",
+    "author": "Бомарше",
+    "text": "Обладание всякого рода благами – еще не все. Получать наслаждение от этого обладания – вот в чем счастье."
+  },
+  {
+    "id": 11,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14377-bill-klinton.jpg",
+    "author": "Билл Клинтон",
+    "text": "Если вам говорят, что дело не в деньгах, значит, это не ваше дело."
+  },
+  {
+    "id": 12,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14382-aristotel-onassis.jpg",
+    "author": "Аристотель Онассис",
+    "text": "Нельзя гоняться за деньгами — нужно идти им навстречу."
+  },
+  {
+    "id": 13,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14518-big-ben.jpg",
+    "author": "Английское изречение XVII века",
+    "text": "Тот, кто платит поздно, никогда не платит дважды."
+  },
+  {
+    "id": 14,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14390-filipp-buvar.jpg",
+    "author": "Филипп Бувар",
+    "text": "Только деньги могут помочь нам забыть о том, что мы небогаты."
+  },
+  {
+    "id": 15,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14391-frensis-bekon.jpg",
+    "author": "Фрэнсис Бэкон",
+    "text": "Деньги — как навоз: если их не разбрасывать, от них будет мало толку."
+  },
+  {
+    "id": 16,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14393-frensis-bekon.jpg",
+    "author": "Фрэнсис Бэкон",
+    "text": "Деньги – хороший слуга, но плохой хозяин."
+  },
+  {
+    "id": 17,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14394-uilyam-somerset-moem.jpg",
+    "author": "Уильям Сомерсет Моэм",
+    "text": "Деньги — это некое шестое чувство, без которого остальные пять неполноценны."
+  },
+  {
+    "id": 18,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14395-semyuel-dzhonson.jpg",
+    "author": "Сэмюэл Джонсон",
+    "text": "Деньги и время — самое тяжелое бремя в жизни. Наиболее несчастны те, у кого их больше, чем они умеют использовать."
+  },
+  {
+    "id": 19,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Автор неизвестен",
+    "text": "Деньги не приносят счастья, но очень помогают без него обойтись."
+  },
+  {
+    "id": 20,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14397-devid-gerbert-lourens.jpg",
+    "author": "Дэвид Герберт Лоуренс",
+    "text": "Деньги, если они есть, – трава, если нет – голодная смерть."
+  },
+  {
+    "id": 21,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14398-zhan-zhak-russo.jpg",
+    "author": "Жан-Жак Руссо",
+    "text": "Деньги, которыми обладаешь, – орудие свободы; те, за которыми гонишься, — орудие рабства."
+  },
+  {
+    "id": 22,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14399-robert-sarnoff.jpg",
+    "author": "Роберт Сарнофф",
+    "text": "Государственные финансы — это искусство передавать деньги из рук в руки до тех пор, пока они не исчезнут."
+  },
+  {
+    "id": 23,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14400-mishel-de-monten.jpg",
+    "author": "Мишель де Монтень",
+    "text": "Уберечь свои деньги стоит больших трудов, чем добыть их."
+  },
+  {
+    "id": 24,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14401-kharvi-makkei.jpg",
+    "author": "Харви Маккей",
+    "text": "Если вы в состоянии устранить проблему с помощью денег, значит, проблемы у вас нет."
+  },
+  {
+    "id": 25,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14402-bendzhamin-franklin.jpg",
+    "author": "Бенджамин Франклин",
+    "text": "Если хочешь избавиться от гостя, докучающего своими визитами, дай ему взаймы денег."
+  },
+  {
+    "id": 26,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14403-margaret-tetcher.jpg",
+    "author": "Маргарет Тэтчер",
+    "text": "Нет никаких государственных денег, есть только деньги налогоплательщиков."
+  },
+  {
+    "id": 27,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14404-prosper-merime.jpg",
+    "author": "Проспер Мериме",
+    "text": "Есть вещи важнее денег, но без денег эти вещи не купишь."
+  },
+  {
+    "id": 28,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14405-demokrit.jpg",
+    "author": "Демокрит",
+    "text": "Жадность до денег, если она ненасытна, гораздо тягостней нужды, ибо чем больше растут желания, тем больше потребностей они порождают."
+  },
+  {
+    "id": 29,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14421-dzhon-steinbek.jpg",
+    "author": "Джон Стейнбек",
+    "text": "Нельзя бороться против денег без денег."
+  },
+  {
+    "id": 30,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14422-franchesko-petrarka.jpg",
+    "author": "Франческо Петрарка",
+    "text": "Чем больше скупость, тем больше жестокость."
+  },
+  {
+    "id": 31,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Франтишек Крышка",
+    "text": "Фальшивые деньги появляются из-за нехватки средств у талантливых людей."
+  },
+  {
+    "id": 32,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Франтишек Крышка",
+    "text": "Бедные видят в богатстве проявления судьбы, богатые - результат собственного труда."
+  },
+  {
+    "id": 33,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14423-tomas-karleil.jpg",
+    "author": "Томас Карлейль",
+    "text": "Главный орган человеческого тела, незыблемая основа, на которой держится душа, - это кошелек."
+  },
+  {
+    "id": 34,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14406-semyuel-dzhonson.jpg",
+    "author": "Сэмюэл Джонсон",
+    "text": "Нет на свете занятия более невинного, чем зарабатывать деньги."
+  },
+  {
+    "id": 35,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14424-robert-luis-stivenson.jpg",
+    "author": "Роберт Луис Стивенсон",
+    "text": "За деньги мы вынуждены платить свободой."
+  },
+  {
+    "id": 36,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Клавдий Элиан",
+    "text": "Деньги ведь что еж, которого легко словить, но непросто удержать."
+  },
+  {
+    "id": 37,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14426-mark-tullii-tsitseron.jpg",
+    "author": "Марк Туллий Цицерон",
+    "text": "Имеющий деньги не может быть наказан."
+  },
+  {
+    "id": 38,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14428-maks-veber.jpg",
+    "author": "Макс Вебер",
+    "text": "Деньги - самое абстрактное и \"безличное\" из всего того, что существует в жизни людей."
+  },
+  {
+    "id": 39,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14429-karl-raimund-popper.jpg",
+    "author": "Карл Раймунд Поппер",
+    "text": "Величайшим злоупотреблением деньгами является то, что за них можно купить политическую власть."
+  },
+  {
+    "id": 40,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14430-dzhordzh-savil-galifaks.jpg",
+    "author": "Джордж Савил Галифакс",
+    "text": "Те, кто считает, что деньги могут все, в действительности могут все ради денег."
+  },
+  {
+    "id": 41,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14431-vasilii-klyuchevskii.jpg",
+    "author": "Василий Ключевский",
+    "text": "Простейший способ не нуждаться в деньгах - не получать больше, чем нужно, а проживать меньше, чем можно."
+  },
+  {
+    "id": 42,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14407-bendzhamin-franklin.jpg",
+    "author": "Бенджамин Франклин",
+    "text": "Трать на один пенс меньше, чем зарабатываешь."
+  },
+  {
+    "id": 43,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14408-bendzhamin-franklin.jpg",
+    "author": "Бенджамин Франклин",
+    "text": "Помните, что деньги обладают способностью размножаться."
+  },
+  {
+    "id": 44,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14409-bendzhamin-franklin.jpg",
+    "author": "Бенджамин Франклин",
+    "text": "Все преимущество иметь деньги заключается в возможности ими пользоваться."
+  },
+  {
+    "id": 45,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14433-goratsii.jpg",
+    "author": "Гораций (Квинт Гораций Флакк)",
+    "text": "Деньги либо господствуют над своим обладателем, либо служат ему."
+  },
+  {
+    "id": 46,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14435-mikhail-zhvanetskii.jpg",
+    "author": "Михаил Жванецкий",
+    "text": "С возрастом желание заработать переходит в желание сэкономить."
+  },
+  {
+    "id": 47,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14438-robert-kiiosaki.jpg",
+    "author": "Роберт Кийосаки",
+    "text": "Когда доходит до денег, единственное, до чего большинство людей могут додуматься, - это вкалывать изо всех сил."
+  },
+  {
+    "id": 48,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Ф. Дойл",
+    "text": "Думай, прежде чем вкладывать деньги, и не забывай думать, когда уже вложил их."
+  },
+  {
+    "id": 49,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14440-frenk-khabbard.jpg",
+    "author": "Фрэнк Хаббард",
+    "text": "Самый надежный способ удвоить свои деньги - это сложить их пополам и сунуть в бумажник."
+  },
+  {
+    "id": 50,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14441-frenk-khabbard.jpg",
+    "author": "Фрэнк Хаббард",
+    "text": "Деньги никого не сделали дураком; они только выставляют дураков напоказ."
+  },
+  {
+    "id": 51,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14442-robert-orben.jpg",
+    "author": "Роберт Орбен",
+    "text": "За деньги нельзя купить одного - бедности. Тут нужно обратиться к помощи фондовой биржи."
+  },
+  {
+    "id": 52,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14443-dzherald-brenan.jpg",
+    "author": "Джералд Бренан",
+    "text": "Люди со средствами думают, что главное в жизни - любовь; бедняки знают точно, что главное - деньги."
+  },
+  {
+    "id": 53,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14444-dzhordzh-bernard-shou.jpg",
+    "author": "Джордж Бернард Шоу",
+    "text": "Берегите пенсы, а уж фунты сами себя сберегут, - эта пословица так же справедлива для формирования личности, как и для накопления капитала."
+  },
+  {
+    "id": 54,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14445-ezop.jpg",
+    "author": "Эзоп",
+    "text": "Будь бережлив и готовься к завтрашнему дню."
+  },
+  {
+    "id": 55,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14446-semyuel-batler.jpg",
+    "author": "Сэмюэл Батлер",
+    "text": "В основе искусства и литературы, как и в основе войны, лежат деньги."
+  },
+  {
+    "id": 56,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14448-mikhail-bulgakov.jpg",
+    "author": "Михаил Булгаков",
+    "text": "Человечество любит деньги, из чего бы те ни были сделаны."
+  },
+  {
+    "id": 57,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14449-fridrikh-nitsshe.jpg",
+    "author": "Фридрих Ницше",
+    "text": "Когда имеешь много вложить - у дня находятся сотни карманов."
+  },
+  {
+    "id": 58,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14419-genri-ford.jpg",
+    "author": "Генри Форд",
+    "text": "Идеалист - это тот, кто помогает разбогатеть другим."
+  },
+  {
+    "id": 59,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14450-lutsii-annei-seneka.jpg",
+    "author": "Луций Анней Сенека",
+    "text": "Деньгами надо управлять, а не служить им."
+  },
+  {
+    "id": 60,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14452-erikh-mariya-remark.jpg",
+    "author": "Эрих Мария Ремарк",
+    "text": "Деньги - это свобода, выкованная из золота."
+  },
+  {
+    "id": 61,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14453-unsur-al-maali.jpg",
+    "author": "Унсур Аль-маали (Кей Кабус)",
+    "text": "Надо покупать соразмерно выгоде и убытку. Если не хочешь разориться, не трать не поступивших доходов."
+  },
+  {
+    "id": 62,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14454-per-dekursel.jpg",
+    "author": "Пьер Декурсель",
+    "text": "Деньги для людей умных составляют средство, для глупцов - цель."
+  },
+  {
+    "id": 63,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14410-bendzhamin-franklin.jpg",
+    "author": "Бенджамин Франклин",
+    "text": "Остерегайтесь незначительных расходов; маленькая течь потопит большой корабль."
+  },
+  {
+    "id": 64,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14456-lion-feikhtvanger.jpg",
+    "author": "Лион Фейхтвангер",
+    "text": "Щедрость доходнее скупости."
+  },
+  {
+    "id": 65,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14514-vilgelm-shvebel.jpg",
+    "author": "Вильгельм Швебель",
+    "text": "Деньги – общее достояние. Каждому позволено брать столько, сколько он хочет, - при условии, что он это может."
+  },
+  {
+    "id": 66,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14457-fridrikh-fon-khaiek.jpg",
+    "author": "Фридрих фон Хайек",
+    "text": "Погоня за прибылью - единственный способ, при помощи которого люди могут удовлетворять потребности тех, кого они вовсе не знают."
+  },
+  {
+    "id": 67,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14459-ernest-khaskins.jpg",
+    "author": "Эрнест Хаскинс",
+    "text": "Если каждый месяц откладывать понемногу, то уже через год вы будете удивлены, как мало у вас набралось."
+  },
+  {
+    "id": 68,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14460-stanislav-ezhi-lets.jpg",
+    "author": "Станислав Ежи Лец",
+    "text": "Сперва расплатись, а потом уже падай в обморок."
+  },
+  {
+    "id": 69,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14515-edgar-kaizer.jpg",
+    "author": "Эдгар Кайзер",
+    "text": "Деньги подобны навозу: собери их в одном месте, и они дурно запахнут. Разбросай их по всей земле, и они дадут хороший урожай."
+  },
+  {
+    "id": 70,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14412-margaret-tetcher.jpg",
+    "author": "Маргарет Тэтчер",
+    "text": "Никто бы и не помнил о \"добром самаритянине\", если бы у него были только благие намерения; у него также были и деньги."
+  },
+  {
+    "id": 71,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14461-zhak-prever.jpg",
+    "author": "Жак Превер",
+    "text": "На деньги надо смотреть свысока, но все-таки при этом не следует терять их из виду."
+  },
+  {
+    "id": 72,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14462-graucho-marks.jpg",
+    "author": "Граучо Маркс",
+    "text": "Деньги - очень полезная штука. Они позволяют не делать того, чего ты не любишь делать, а я не люблю делать почти ничего."
+  },
+  {
+    "id": 73,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14463-uorren-baffett.jpg",
+    "author": "Уоррен Баффетт",
+    "text": "Я никогда не пытаюсь делать деньги на самой фондовой бирже. Я покупаю исходя из предположения, что они могут закрыть биржу на следующий день и потом не открывать ее больше в течение пяти лет."
+  },
+  {
+    "id": 74,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14465-garold-dzhenin.jpg",
+    "author": "Гарольд Дженин",
+    "text": "В бизнесе ты получаешь либо деньги, либо опыт. Бери опыт, а деньги придут."
+  },
+  {
+    "id": 75,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14466-mark-tven.jpg",
+    "author": "Марк Твен",
+    "text": "Работайте так, словно деньги не имеют для вас никакого значения."
+  },
+  {
+    "id": 76,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14467-onore-de-balzak.jpg",
+    "author": "Оноре де Бальзак",
+    "text": "На прихоти у нас всегда найдутся деньги, мы скупимся только на затраты полезные и необходимые."
+  },
+  {
+    "id": 77,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14411-uilyam-somerset-moem.jpg",
+    "author": "Уильям Сомерсет Моэм",
+    "text": "Деньги - это некое шестое чувство, без которого остальные пять неполноценны."
+  },
+  {
+    "id": 78,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14468-alfons-karr.jpg",
+    "author": "Альфонс Карр",
+    "text": "Чтобы заработать на жизнь, надо работать. Но чтобы разбогатеть, надо придумать что-то другое."
+  },
+  {
+    "id": 79,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14451-lutsii-annei-seneka.jpg",
+    "author": "Луций Анней Сенека",
+    "text": "Нажить много денег - храбрость; сохранить их - мудрость, а умело расходовать - искусство."
+  },
+  {
+    "id": 80,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14469-napoleon-khill.jpg",
+    "author": "Наполеон Хилл",
+    "text": "Бедность является не более чем результатом нашей лени или безразличия."
+  },
+  {
+    "id": 81,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14470-iosif-brodskii.jpg",
+    "author": "Иосиф Бродский",
+    "text": "Наравне с землей, водой, воздухом и огнем, - деньги суть пятая стихия, с которой человеку чаще всего приходится считаться."
+  },
+  {
+    "id": 82,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14471-erve-bazen.jpg",
+    "author": "Эрве Базен",
+    "text": "Источник любой независимости - независимость материальная."
+  },
+  {
+    "id": 83,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14447-semyuel-batler.jpg",
+    "author": "Сэмюэл Батлер",
+    "text": "Репутация как деньги: ее легче заработать, чем сохранить."
+  },
+  {
+    "id": 84,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14472-dzhim-ron.jpg",
+    "author": "Джим Рон",
+    "text": "Философия богатого отличается от философии бедного следующим: богатый инвестирует свои деньги и расходует то, что осталось; бедный же расходует свои деньги и инвестирует то, что осталось."
+  },
+  {
+    "id": 85,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14473-lourens-piter.jpg",
+    "author": "Лоуренс Питер",
+    "text": "За деньги нельзя купить любовь, но можно улучшить исходные позиции для торга."
+  },
+  {
+    "id": 86,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14474-tristan-bernar.jpg",
+    "author": "Тристан Бернар",
+    "text": "Банкротство - это законная процедура, в ходе которой вы перекладываете деньги в брючный карман и отдаете пиджак кредиторам."
+  },
+  {
+    "id": 87,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14475-uilyam-peni.jpg",
+    "author": "Уильям Пени",
+    "text": "Слава богу, правительство у нас не такое большое, какое мы могли бы иметь за те деньги, что мы ему платим."
+  },
+  {
+    "id": 88,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14476-benisio-del-toro.jpg",
+    "author": "Бенисио Дель Торо",
+    "text": "Состояться — значит получать деньги за то, что ты умеешь делать хорошо."
+  },
+  {
+    "id": 89,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14458-fridrikh-fon-khaiek.jpg",
+    "author": "Фридрих фон Хайек",
+    "text": "Деньги — одно из величайших орудий обретения свободы, придуманных человеком."
+  },
+  {
+    "id": 90,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14477-tomas-makolei.jpg",
+    "author": "Томас Маколей",
+    "text": "Делать деньги без рекламы может только монетный двор."
+  },
+  {
+    "id": 91,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14413-prosper-merime.jpg",
+    "author": "Проспер Мериме",
+    "text": "За деньги нельзя купить друзей, но можно завязать немало интересных знакомств. Есть вещи важнее денег, но без денег эти вещи не купить."
+  },
+  {
+    "id": 92,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14420-genri-ford.jpg",
+    "author": "Генри Форд",
+    "text": "Главная цель капитала - не добыть как можно больше денег, а добиться того, чтобы деньги вели к улучшению жизни."
+  },
+  {
+    "id": 93,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14479-daniel-defo.jpg",
+    "author": "Даниэль Дефо",
+    "text": "Чрезмерное потребление благ – наивернейший путь к величайшим невзгодам."
+  },
+  {
+    "id": 94,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14480-dzhon-rokfeller.jpg",
+    "author": "Джон Рокфеллер",
+    "text": "Ваше благополучие зависит от ваших собственных решений."
+  },
+  {
+    "id": 95,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14481-aleksandr-dyuma-syn.jpg",
+    "author": "Александр Дюма-сын",
+    "text": "Не почитай денег ни больше, ни меньше, чем они того стоят; это хороший слуга и плохой господин."
+  },
+  {
+    "id": 96,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14414-prosper-merime.jpg",
+    "author": "Проспер Мериме",
+    "text": "Все покупается, кроме народной любви."
+  },
+  {
+    "id": 97,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14482-uilyam-pitt-amkherst.jpg",
+    "author": "Уильям Питт Амхерст",
+    "text": "В плохие старые времена было три легких способа разориться: самым быстрым из них были скачки, самым приятным - женщины, а самым надежным - сельское хозяйство."
+  },
+  {
+    "id": 98,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14483-edmund-berk.jpg",
+    "author": "Эдмунд Берк",
+    "text": "Экономия состоит не в сбережении, а в отборе."
+  },
+  {
+    "id": 99,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14484-gerbert-proknou.jpg",
+    "author": "Герберт Прокноу",
+    "text": "Экономист – это человек, который говорит о непонятных ему вещах таким образом, что невеждой чувствуете себя вы."
+  },
+  {
+    "id": 100,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14485-adam-smit.jpg",
+    "author": "Адам Смит",
+    "text": "Всякий расточитель – враг общества, всякий бережливый человек – благодетель."
+  },
+  {
+    "id": 101,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Дж. Остин",
+    "text": "Экономист – это человек, который знает о деньгах больше, чем те, кто их имеет. Экономика – это способ тратить деньги, не получая от них никакого удовольствия."
+  },
+  {
+    "id": 102,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14415-bendzhamin-franklin.jpg",
+    "author": "Бенджамин Франклин",
+    "text": "Кредиторы отличаются лучшей памятью, чем должники."
+  },
+  {
+    "id": 103,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14486-dzhonni-tillmon.jpg",
+    "author": "Джонни Тиллмон",
+    "text": "Заработная плата – мерило уважения, с которым общество относится к данной профессии."
+  },
+  {
+    "id": 104,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14487-albert-einshtein.jpg",
+    "author": "Альберт Эйнштейн",
+    "text": "Самое непостижимое в этом мире – налоговая шкала."
+  },
+  {
+    "id": 105,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14488-ambroz-gvinnet-birs.jpg",
+    "author": "Амброз Гвиннет Бирс",
+    "text": "Финансовая деятельность – искусство или наука, управлять доходами и ресурсами для пущей выгоды управляющего."
+  },
+  {
+    "id": 106,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14489-ambroz-gvinnet-birs.jpg",
+    "author": "Амброз Гвиннет Бирс",
+    "text": "Цена – стоимость плюс разумное вознаграждение за угрызения совести при назначении цены."
+  },
+  {
+    "id": 107,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14416-zhan-zhak-russo.jpg",
+    "author": "Жан-Жак Руссо",
+    "text": "Нарушая свой долг, тем самым нарушают свои права."
+  },
+  {
+    "id": 108,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14490-meier-amshel-rotshild.jpg",
+    "author": "Мейер Амшель Ротшильд",
+    "text": "Вы никогда не сможете разориться, получая прибыль."
+  },
+  {
+    "id": 109,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14491-lourens-piter.jpg",
+    "author": "Лоренс Питер",
+    "text": "Если вы нарушаете правила, вас штрафуют; если вы соблюдаете правила, вас облагают налогом."
+  },
+  {
+    "id": 110,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14492-siril-nortkot-parkinson.jpg",
+    "author": "Сирил Норткот Паркинсон",
+    "text": "Чтобы создавать прекрасное, нужна крепкая финансовая поддержка."
+  },
+  {
+    "id": 111,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14434-goratsii.jpg",
+    "author": "Гораций (Квинт Гораций Флакк)",
+    "text": "Серебро дешевле золота, золото – нравственных достоинств."
+  },
+  {
+    "id": 112,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14493-uilyams-tennessi.jpg",
+    "author": "Уильямс Теннесси",
+    "text": "Чем больше у тебя денег, тем больше знакомых, с которыми ничто тебя не связывает, кроме денег."
+  },
+  {
+    "id": 113,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14417-genri-ford.jpg",
+    "author": "Генри Форд",
+    "text": "Только два стимула заставляют людей работать: жажда заработной платы и – боязнь ее потерять."
+  },
+  {
+    "id": 114,
+    "avatar": "https://www.finversia.ru/site/themes/lapuzzle/images/quote_no_image_2.jpg",
+    "author": "Франтишек Крышка",
+    "text": "Будущие прибыли основываются на прошлых потерях."
+  },
+  {
+    "id": 115,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14494-karl-marks.jpg",
+    "author": "Карл Маркс",
+    "text": "У капитала одно единственное жизненное стремление – стремление возрастать."
+  },
+  {
+    "id": 116,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14495-akio-morita.jpg",
+    "author": "Акио Морита",
+    "text": "Люди работают не только ради денег, и если вы пытаетесь мотивировать людей, деньги не самый эффективный инструмент."
+  },
+  {
+    "id": 117,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14427-mark-tullii-tsitseron.jpg",
+    "author": "Марк Тулий Цицерон",
+    "text": "Не быть жадным – уже богатство, не быть расточительным – доход."
+  },
+  {
+    "id": 118,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14418-uinston-cherchill.jpg",
+    "author": "Уинстон Черчилль",
+    "text": "Социалисты считают, что получать прибыль – грех. Я считаю, что настоящий грех – терпеть убытки."
+  },
+  {
+    "id": 119,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14439-robert-kiiosaki.jpg",
+    "author": "Роберт Кийосаки",
+    "text": "Знания – это деньги нашего времени, а разум – самый ценный актив, дарованный нам Богом."
+  },
+  {
+    "id": 120,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14501-donald-tramp.jpg",
+    "author": "Дональд Трамп",
+    "text": "Нет ничего более преступного для финансового благополучия, чем придумать отличную идею и не удосужиться реализовать ее."
+  },
+  {
+    "id": 121,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14502-dzhon-rokfeller.jpg",
+    "author": "Джон Дэвисон Рокфеллер",
+    "text": "Путь к огромному богатству лежит только через пассивный доход! Доход, который приходит к тебе независимо от твоих усилий."
+  },
+  {
+    "id": 122,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14504-robert-frost.jpg",
+    "author": "Роберт Фрост",
+    "text": "Банкир - это человек, который одолжит вам зонтик в солнечную погоду, чтобы забрать его, как только начинается дождь."
+  },
+  {
+    "id": 123,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14464-uorren-baffett.jpg",
+    "author": "Уоррен Баффетт",
+    "text": "В финансовых делах я бы советовал избегать «доказательств», полученных задним числом: ведь если бы книги по истории были ключом к богатству, тогда в списках богачей мы увидели бы исключительно библиотекарей."
+  },
+  {
+    "id": 124,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14505-dzhordzh-soros.jpg",
+    "author": "Джордж Сорос",
+    "text": "Финансовые рынки не могут правильно учитывать будущее - они вообще не учитывают будущего, они помогают сформировать его."
+  },
+  {
+    "id": 125,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14508-per-lui-lakretel.jpg",
+    "author": "Пьер Луи Лакретель",
+    "text": "В финансах наказание следует тотчас за оплошностью."
+  },
+  {
+    "id": 126,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14512-iozhef-fon-etvesh.jpg",
+    "author": "Йожеф фон Этвёш",
+    "text": "Благосостояние государства обеспечивают не те деньги, которые оно ежегодно отпускает чиновникам, а те, что оно ежегодно оставляет в карманах граждан."
+  },
+  {
+    "id": 127,
+    "avatar": "https://www.finversia.ru/site/public/files/15/14513-maks-nordau.jpg",
+    "author": "Макс Нордау",
+    "text": "Финансовые кризисы не что иное, как правильные поршневые удары, которыми крупный капитал высасывает коллективный излишек заработка нации, сосредоточивая его в своем бассейне."
+  }
+]

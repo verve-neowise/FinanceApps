@@ -1,0 +1,4 @@
+<resources>
+    <style name="Base.Theme.Coin" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+</resources>

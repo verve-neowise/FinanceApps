@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    app:startDestination="@id/feed">
+    <fragment
+        android:id="@+id/feed"
+        android:name="com.finance.news.app.fragments.NewsFragment"
+        android:label="RemoteFragment" >
+        <argument
+            android:name="source"
+            app:argType="com.finance.news.app.fragments.Source"
+            android:defaultValue="Remote" />
+    </fragment>
+    <fragment
+        android:id="@+id/favorites"
+        android:name="com.finance.news.app.fragments.NewsFragment"
+        android:label="LocalFragment" >
+        <argument
+            android:name="source"
+            app:argType="com.finance.news.app.fragments.Source"
+            android:defaultValue="Local" />
+    </fragment>
+    <fragment
+        android:id="@+id/about"
+        android:name="com.finance.news.app.fragments.AboutFragment"
+        android:label="AboutFragment" />
+</navigation>
