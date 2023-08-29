@@ -76,7 +76,7 @@ fun Router() {
         composable(Destinations.About) {
             val assets = LocalContext.current.assets
             val aboutText = assets.open("about.html").bufferedReader().readText()
-            AboutScreen(aboutText, "")
+            AboutScreen(aboutText, "https://google.com")
         }
     }
 }

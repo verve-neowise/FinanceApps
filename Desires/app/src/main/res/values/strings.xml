@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Desires</string>
+    <string name="desires">Желания</string>
+    <string name="add_desire">Добавить желание</string>
+    <string name="content">image</string>
+    <string name="accumulated">Накоплено</string>
+    <string name="amount">%$1s из %$2s</string>
+    <string name="save">Сохранить</string>
+    <string name="pick_image">Выберите изображение</string>
+    <string name="total_amount">Общая сумма</string>
+    <string name="description">Описание</string>
+    <string name="name">Название</string>
+    <string name="topups">Пополнения</string>
+</resources>
